@@ -70,8 +70,6 @@ http://localhost:8000
 
 ## 📸 Preview
 
-Tambahkan screenshot setelah upload repo:
-
 <img width="1920" height="1200" alt="Screenshot 2025-12-01 231708" src="https://github.com/user-attachments/assets/2b7ec272-9da5-4aa7-9aed-8c046bae64dd" />
 
 
